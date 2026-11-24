@@ -1,0 +1,42 @@
+[
+    {
+        "question": "hello",
+        "answer": "Hello! How can I help you?"
+    },
+    {
+        "question": "what are your working hours",
+        "answer": "Our customer support is available from 9 AM to 6 PM."
+    },
+    {
+        "question": "how can I contact customer support",
+        "answer": "You can contact customer support by email or phone."
+    },
+    {
+        "question": "where is my order",
+        "answer": "Please provide your order number so we can check your order status."
+    },
+    {
+        "question": "how can I cancel my order",
+        "answer": "You can cancel your order before it is shipped."
+    },
+    {
+        "question": "how can I return a product",
+        "answer": "You can request a return within 7 days of receiving the product."
+    },
+    {
+        "question": "what payment methods do you accept",
+        "answer": "We accept credit cards, debit cards, UPI and online payments."
+    },
+    {
+        "question": "how long does delivery take",
+        "answer": "Delivery usually takes 3 to 5 business days."
+    },
+    {
+        "question": "how can I get a refund",
+        "answer": "Refunds are normally processed after the returned product is received."
+    },
+    {
+        "question": "thank you",
+        "answer": "You're welcome! Is there anything else I can help you with?"
+    }
+]
