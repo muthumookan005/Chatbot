@@ -1,42 +1,123 @@
+
 [
     {
         "question": "hello",
-        "answer": "Hello! How can I help you?"
+        "answer": "Hello! Welcome to our customer support. How can I help you today?"
+    },
+    {
+        "question": "hi",
+        "answer": "Hi there! How may I assist you?"
+    },
+    {
+        "question": "good morning",
+        "answer": "Good morning! Welcome to customer support. How can I help?"
     },
     {
         "question": "what are your working hours",
-        "answer": "Our customer support is available from 9 AM to 6 PM."
+        "answer": "Our customer support team is available Monday to Saturday, from 9 AM to 6 PM."
     },
     {
         "question": "how can I contact customer support",
-        "answer": "You can contact customer support by email or phone."
+        "answer": "You can contact our customer support team by email or phone during working hours."
     },
     {
         "question": "where is my order",
-        "answer": "Please provide your order number so we can check your order status."
+        "answer": "Please provide your order number so we can help you check your order status."
+    },
+    {
+        "question": "how can I track my order",
+        "answer": "You can track your order using the tracking link shared in your order confirmation or shipping message."
     },
     {
         "question": "how can I cancel my order",
-        "answer": "You can cancel your order before it is shipped."
+        "answer": "You can request cancellation before your order is shipped. Please share your order number for assistance."
+    },
+    {
+        "question": "can I change my delivery address",
+        "answer": "You may be able to change your delivery address before your order is shipped. Please contact support with your order number."
+    },
+    {
+        "question": "how long does order processing take",
+        "answer": "Orders are usually processed within 1 to 2 business days."
     },
     {
         "question": "how can I return a product",
-        "answer": "You can request a return within 7 days of receiving the product."
+        "answer": "You can request a return within 7 days of receiving the product, subject to our return policy."
     },
     {
-        "question": "what payment methods do you accept",
-        "answer": "We accept credit cards, debit cards, UPI and online payments."
+        "question": "what is your return policy",
+        "answer": "Products can be returned within 7 days of delivery if they meet our return policy conditions."
     },
     {
-        "question": "how long does delivery take",
-        "answer": "Delivery usually takes 3 to 5 business days."
+        "question": "can I exchange a product",
+        "answer": "Please contact our support team with your order number and the product details to check exchange availability."
+    },
+    {
+        "question": "my product is damaged",
+        "answer": "We're sorry about that! Please share your order number and photos of the damaged product so our team can assist you."
     },
     {
         "question": "how can I get a refund",
-        "answer": "Refunds are normally processed after the returned product is received."
+        "answer": "Refunds are normally processed after the returned product is received and inspected."
+    },
+    {
+        "question": "how long does a refund take",
+        "answer": "Refund processing time depends on your payment method and bank. Please contact support with your order number for an update."
+    },
+    {
+        "question": "my refund has not arrived",
+        "answer": "We're sorry for the delay. Please share your order number and refund reference, if available, so our team can check."
+    },
+    {
+        "question": "what payment methods do you accept",
+        "answer": "We accept credit cards, debit cards, UPI and other supported online payment methods."
+    },
+    {
+        "question": "my payment failed",
+        "answer": "Please check your bank balance and payment details. If money was deducted, contact support with your transaction reference."
+    },
+    {
+        "question": "money deducted but order not placed",
+        "answer": "We're sorry for the inconvenience. Please share your transaction reference so our team can help investigate."
+    },
+    {
+        "question": "is cash on delivery available",
+        "answer": "Cash on delivery availability depends on your delivery location and the product. Please check the options at checkout."
+    },
+    {
+        "question": "how long does delivery take",
+        "answer": "Delivery usually takes 3 to 5 business days, depending on your location."
+    },
+    {
+        "question": "why is my delivery delayed",
+        "answer": "We're sorry for the delay. Please provide your order number so we can help check the latest delivery status."
+    },
+    {
+        "question": "can I change my delivery date",
+        "answer": "Delivery date changes depend on the courier service. Please contact our support team with your tracking details."
+    },
+    {
+        "question": "I received the wrong product",
+        "answer": "We apologize for the mistake. Please share your order number and a photo of the product received so we can help."
+    },
+    {
+        "question": "how do I create an account",
+        "answer": "You can create an account by selecting the Sign Up option and entering your details."
+    },
+    {
+        "question": "I forgot my password",
+        "answer": "Select Forgot Password on the login page and follow the instructions to reset your password."
+    },
+    {
+        "question": "how can I update my profile",
+        "answer": "Log in to your account and open the Profile or Account Settings section to update your details."
+    },
+    {
+        "question": "where can I find my order number",
+        "answer": "Your order number is usually available in your order confirmation email or in the Orders section of your account."
     },
     {
         "question": "thank you",
-        "answer": "You're welcome! Is there anything else I can help you with?"
+        "answer": "You're very welcome! Thank you for contacting us. Is there anything else I can help you with?"
     }
 ]
